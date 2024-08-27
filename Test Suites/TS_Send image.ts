@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>TS_Send image</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>true</rerunImmediately>
+   <testSuiteGuid>1d86207c-9eb0-414b-8bf3-d82fbd32f681</testSuiteGuid>
+   <testCaseLink>
+      <guid>58cd0b8f-10da-455c-80c4-3a2edbdfc5cc</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/TC_API_Send image</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>d6e08974-1d7e-4e7f-b09e-bee540358066</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/TD_Send image message</testDataId>
+      </testDataLink>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+      <variableLink>
+         <testDataLinkId>d6e08974-1d7e-4e7f-b09e-bee540358066</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>groupId</value>
+         <variableId>a606be7c-c8f6-41cb-a468-f492395e4d9b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d6e08974-1d7e-4e7f-b09e-bee540358066</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>senderId</value>
+         <variableId>0b832b46-f1e7-411f-991e-9f467f66a76b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d6e08974-1d7e-4e7f-b09e-bee540358066</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>file</value>
+         <variableId>297b9da2-2c71-4206-bd55-af854296fecd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>d6e08974-1d7e-4e7f-b09e-bee540358066</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>statusCode</value>
+         <variableId>b321b9fc-72c0-4da9-8eba-93444f917dfb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>7becc11d-9441-44ba-94e1-df4feac3a9fd</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

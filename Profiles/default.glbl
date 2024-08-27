@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <name>default</name>
+   <tag></tag>
+   <defaultProfile>true</defaultProfile>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzUxMiJ9.eyJzdWIiOiJlYzI1NGI3ZS1jODJjLTQxZDQtODE4MS05YWM4ZWM2NzVmZWIiLCJyb2xlcyI6WyJTVVBFUl9BRE1JTiJdLCJuYW1lIjoiaGh1eTI2MDYyNEBnbWFpbC5jb20iLCJlbWFpbGFkZHJlc3MiOiJoaHV5MjYwNjI0QGdtYWlsLmNvbSIsIm5hbWVpZGVudGlmaWVyIjoiaGh1eTI2MDYyNEBnbWFpbC5jb20iLCJpc3MiOiJNZW50b3JVUy1sb2NhbCIsImlhdCI6MTcyNDMzODYxMywiZXhwIjoxNzI2OTMwNjEzfQ.Z7N2Wxr9brmKlhlevIVKomsb70pY-AndrK9kCz5xfj6fGaMDxYX0nksDonyQJ3sjGpmMxjTZOtW8BrbyBfQCqA'</initValue>
+      <name>accessToken</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'http://localhost:8080'</initValue>
+      <name>baseUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'eb94cae5-50d2-42b3-9780-606135545df9'</initValue>
+      <name>me</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'&quot;d2d3687e-03df-41d9-b643-f8d4e9afb052&quot;'</initValue>
+      <name>mentee1</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'7e549ee3-6d54-47b7-953e-0b0497397f38'</initValue>
+      <name>defaultChannel</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'&quot;677e08e0-a9c7-443f-9849-dafd2271e9a7&quot;'</initValue>
+      <name>mentee2</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>'&quot;6f9525d5-5948-47d3-8576-1dbbe1522f3b&quot;'</initValue>
+      <name>mentee3</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>
